@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/React-f9dd6a?style=flat&logo=React&logoColor=3776AB"/>
 <br>
 <img src="https://img.shields.io/badge/Django-cae9d0?style=flat&logo=Django&logoColor=092E20"/> 
-<img src="https://img.shields.io/badge/JAVA-cae9d0?style=flat&logo=JAVA&logoColor=092E20"/> 
+<img src="https://img.shields.io/badge/JAVA-cae9d0?style=flat&logo=java&logoColor=white"/> 
 </div>
 
 <!--
