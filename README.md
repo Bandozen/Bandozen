@@ -3,9 +3,9 @@
 <br>
 
 <p align = 'center'>
-안녕하세요! 저는 조찬익입니다.😄
-끊임없이 공부하는 자세를 습득하고자 개발에 뛰어들었습니다.
-결과뿐만 아니라 과정도 중요하게 여기는 개발자가 되고 싶습니다.
+안녕하세요! 저는 조찬익입니다.😄<br>
+끊임없이 공부하는 자세를 습득하고자 개발에 뛰어들었습니다.<br>
+결과뿐만 아니라 과정도 중요하게 여기는 개발자가 되고 싶습니다.<br>
 감사합니다!
 </p>
 
@@ -25,6 +25,11 @@
 <img src="https://img.shields.io/badge/JAVA-cae9d0?style=flat&logo=java&logoColor=F7DF1E"/> 
 </div>
 
+<hr>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bandozen&show_icons=true&theme=default)
+![ Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=Bandozen&layout=compact&theme=default)
+<hr>
 <!--
 **Bandozen/Bandozen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
