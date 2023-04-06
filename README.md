@@ -27,6 +27,10 @@
 
 <hr>
 
+<div align='center'>
+### 현재 목표로 하고 있는 것
+</div>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bandozen&show_icons=true&theme=default)
 ![ Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=Bandozen&layout=compact&theme=default)
 <hr>
