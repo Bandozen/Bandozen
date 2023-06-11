@@ -11,8 +11,9 @@
 
 <hr>
 
-<p align = "center">
+<h2 align = "center">
 📌Tech Stack📌
+</h2>
 <Used at least Once>
 <div align='center'>
 <img src="https://img.shields.io/badge/Python-f9dd6a?style=flat&logo=Python&logoColor=3776AB"/> 
@@ -20,19 +21,25 @@
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=fff"/> 
 <img src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=JavaScript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/React-f9dd6a?style=flat&logo=React&logoColor=3776AB"/>
-<br>
-<img src="https://img.shields.io/badge/Django-cae9d0?style=flat&logo=Django&logoColor=092E20"/> 
-<img src="https://img.shields.io/badge/JAVA-cae9d0?style=flat&logo=java&logoColor=F7DF1E"/> 
+<img src="https://img.shields.io/badge/Django-cae9d0?style=flat&logo=Django&logoColor=092E20"/>
+<img src="https://img.shields.io/badge/Vue-cae9d0?style=flat&logo=vue&logoColor=092E20"/>
 </div>
 
 <hr>
 
-<div align='center'>
-### 현재 목표로 하고 있는 것
-</div>
+<h2 align='center' >
+👨🏻‍💻현재 목표로 하고 있는 것👨🏻‍💻
+</h2>
+<p align = "center">
+- 정보처리기사 실기 획득(2023년 2회차 시험 내)<br>
+- 백준 티어 Gold 획득(현재 실버1 티어)
+</p>
+
+<hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bandozen&show_icons=true&theme=default)
 ![ Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=Bandozen&layout=compact&theme=default)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whcksdlr5909)](https://solved.ac/whcksdlr5909/)
 <hr>
 <!--
 **Bandozen/Bandozen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
